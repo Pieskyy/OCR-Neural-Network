@@ -67,11 +67,17 @@ Save the trained model as ocr_model.pth
 What you should see:
 
 text
+
 Epoch 1/5, Loss: 0.4321
+
 Epoch 2/5, Loss: 0.2345
+
 Epoch 3/5, Loss: 0.1876
+
 Epoch 4/5, Loss: 0.1543
+
 Epoch 5/5, Loss: 0.1321
+
 Model saved as ocr_model.pth
 
 (The numbers will be different but should get smaller each time (which means its learning))
