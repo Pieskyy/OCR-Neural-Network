@@ -13,18 +13,18 @@ How to use:
 
 Understanding this Repo:
 
-#what-is-a-neural-network?
-#the-nueron
-#activation-functions
-#nueral-network-layers
-#ocr
-#loss-functions
-#backpropagation
-#gradient-descent
-#flattened-images
+# what-is-a-neural-network?
+# the-nueron
+# activation-functions
+# nueral-network-layers
+# ocr
+# loss-functions
+# backpropagation
+# gradient-descent
+# flattened-images
 
     
-what-is-a-neural-network?
+# what-is-a-neural-network?
 
 A neural network is a math model that learns patterns by adjusting numerical parameters called weights. It approximates a function f(x) ≈ y, where x is input data and y is the desired output
 
