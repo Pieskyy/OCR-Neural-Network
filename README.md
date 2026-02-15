@@ -1,4 +1,4 @@
-# OCR---Neural-Network
+# OCR-Neural-Network
 OCR stands for Optical Character Recognition.
 
 A Neural Network is a machine learning model inspired by the human brain.
