@@ -3,19 +3,19 @@ OCR Neural Network AI
 This project is essentially a home made AI that guesses numbers.
 
 
-What is OCR?
+# What is OCR?
 OCR stands for Optical Character Recognition. it's technology that converts images of text into machine-readable characters. In this project, i using OCR to recognize handwritten digits (0-9)
 
 Think of it like teaching a computer to read your handwriting
 
 
 
-What is a Neural Network?
+# What is a Neural Network?
 A Neural Network is a machine learning model inspired by how the human brain works
 
 
 
-How it works:
+# How it works:
 You show it a bunch of handwritten numbers
 
 It makes guesses and learns from its mistakes
@@ -26,18 +26,18 @@ Eventually, it can guess numbers it's never seen before!
 
 
 
-What Does This Project Do?
+# What Does This Project Do?
 This project lets you draw a number on your screen, and the neural network will try to guess what you drew
 
 
 
-Files in This Project:
+# Files in This Project:
 File	What it does
 train_model.py	Trains the neural network on thousands of handwritten digits (only need to run once)
 predicting.py	Launches the drawing app where you can test the model
 
 
-How to Use This Project:
+# How to Use This Project:
 
 Step 1: Install the Requirements:
 
@@ -89,11 +89,7 @@ This opens a drawing window where you can:
 
     Click "Clear" to try again
 
-
-
-How Does the Neural Network Work?
-
-The Architecture:
+# The Architecture:
     the network has 4 layers:
 
         Input Layer: Sees 784 pixels (28×28 image flattened into one line)
@@ -118,7 +114,7 @@ The Architecture:
     Repeat thousands of times and gets smarter
 
 
-sources:
+# sources:
     https://www.youtube.com/watch?v=2S1dgHpqCdk
 
     https://codemy.com/
