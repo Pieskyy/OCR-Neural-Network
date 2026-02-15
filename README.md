@@ -2,6 +2,8 @@ OCR Neural Network AI
 
 This project is essentially a home made AI that guesses numbers.
 
+I tried my best to make this readme look good, I TRIED OKAY
+
 
 # What is OCR?
 OCR stands for Optical Character Recognition. it's technology that converts images of text into machine-readable characters. In this project, i using OCR to recognize handwritten digits (0-9)
