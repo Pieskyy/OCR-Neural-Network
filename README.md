@@ -7,7 +7,9 @@ it is designed to recognize patterns, process data, and solve complex problems
 The Neural Network in this Repo is Designed to guess the number you drew.
 
 How to use:
+
     Run the train_model.py (you only need to do this once and it SHOULD save the data)
+    
     run the predicting.py (run whenever you wish to use)
 
 
@@ -29,7 +31,11 @@ It's basically a big math equation that adjusts itself until it gets things righ
 Simple analogy: Like tuning a guitar. you adjust strings until the note sounds right
 
 # the-nueron
-
+Imagine a neuron as a tiny decision-maker:
+    It takes inputs (like: "is it round?", "does it have fur?")
+    Gives each input importance (weights)
+    Adds them all up with a little extra (bias)
+    Decides whether to "fire" or not
 # activation-functions
 # nueral-network-layers
 # ocr
