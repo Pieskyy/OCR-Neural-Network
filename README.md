@@ -13,15 +13,15 @@ How to use:
 
 Understanding this Repo:
 
-what-is-a-neural-network?
-the-nueron
-activation-functions
-nueral-network-layers
-ocr
-loss-functions
-backpropagation
-gradient-descent
-flattened-images
+#what-is-a-neural-network?
+#the-nueron
+#activation-functions
+#nueral-network-layers
+#ocr
+#loss-functions
+#backpropagation
+#gradient-descent
+#flattened-images
 
     
 what-is-a-neural-network?
